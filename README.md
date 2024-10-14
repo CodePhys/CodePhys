@@ -1,5 +1,13 @@
+## 📚 Seleziona la tua lingua | Select your language | Selecciona tu idioma:
+
+- [Versione in Italiano](#versione-in-italiano)
+- [Versione in Inglese](#versione-in-inglese)
+- [Versione in Spagnolo](#versione-in-spagnolo)
+- 
 ### Versione in Italiano ###
 # 👨‍💻 **Sviluppatore Full Stack** | 🚀 **Astrofisico e Ingegnere**
+...
+
 
 ## 👋 Ciao, sono Yon Acosta!
 
@@ -97,10 +105,10 @@ Sono profondamente motivato nell'apprendimento continuo, dallo  **sviluppo softw
 ![Yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
 
 
-
 ### Versione in Inglese ###
-
 # 👨‍💻 **Full Stack Developer** | 🚀 **Astrophysicist & Engineer**
+...
+
 
 ## 👋 Hi, I'm Yon Acosta!
 
@@ -189,6 +197,8 @@ I am deeply motivated by continuous learning, from **software development** to *
 
 ### Versione in Spagnolo ###
 # 👨‍💻 **Desarrollador Full Stack** | 🚀 **Astrofísico e Ingeniero**
+...
+
 
 ## 👋 ¡Hola, soy Yon Acosta!
 
