@@ -1,7 +1,8 @@
 ## 📚 Seleziona la tua lingua | Select your language | Selecciona tu idioma:
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"><br><br>            
 
 - [Versione in Italiano](#versione-in-italiano)
-- [Versione in Inglese](#versione-in-inglese)
+- [Versione in Inglese](#versione-in-inglese)                                                        
 - [Versione in Spagnolo](#versione-in-spagnolo)
 - 
 ### Versione in Italiano ###
