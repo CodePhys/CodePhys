@@ -21,7 +21,7 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
 
 
 ### 🖥 **Sviluppo Full Stack**
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap
 - **Backend**: C, C#, ASP.NET, MVC, SQLSERVER, Entity Framework,identity framework JWT,Deploy  API+DB Azure webServer
 - **Version Control**: Git, GitHub, GitLab
 -  **E-commerce**: Shopify per la gestione di negozi online, WordPRess, Aruba
@@ -119,7 +119,7 @@ I am a **full stack developer** with a degree in **Physics and Astrophysics**, a
 ## 🔧 **Technical Skills**
 
 ### 🖥 **Full Stack Development**
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap
 - **Backend**: C, C#, ASP.NET, MVC, SQLSERVER, Entity Framework, Identity Framework, JWT, API+DB Deploy on Azure WebServer
 - **Version Control**: Git, GitHub, GitLab
 - **E-commerce**: Shopify for online store management, WordPress, Aruba
@@ -209,7 +209,7 @@ Soy un **desarrollador full stack** con una licenciatura en **Física y Astrofí
 ## 🔧 **Habilidades Técnicas**
 
 ### 🖥 **Desarrollo Full Stack**
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap
 - **Backend**: C, C#, ASP.NET, MVC, SQLSERVER, Entity Framework, Identity Framework, JWT, Despliegue de API+BD en Azure WebServer
 - **Control de Versiones**: Git, GitHub, GitLab
 - **E-commerce**: Shopify para la gestión de tiendas en línea, WordPress, Aruba
