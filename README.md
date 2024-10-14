@@ -50,6 +50,7 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
   <img height="40" width="140" alt="microsoft" src="https://github.com/user-attachments/assets/bf05e5c0-f120-4325-9bf3-a0515d9c72b4">
   <img height="40" width="40" alt="canva" src="https://github.com/user-attachments/assets/2ed8fb99-92c1-4934-9765-5e9cbfbfceb8">
   <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/d6677752-51fc-4e7f-8fd3-d1e727b548f5">
+ <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/3c15a1f1-97bd-4e10-801a-790111d13ca9">
   
 </p>
 
@@ -148,6 +149,9 @@ I am a **full stack developer** with a degree in **Physics and Astrophysics**, a
   <img height="40" width="140" alt="microsoft" src="https://github.com/user-attachments/assets/bf05e5c0-f120-4325-9bf3-a0515d9c72b4">
   <img height="40" width="40" alt="canva" src="https://github.com/user-attachments/assets/2ed8fb99-92c1-4934-9765-5e9cbfbfceb8">
   <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/d6677752-51fc-4e7f-8fd3-d1e727b548f5">
+ <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/3c15a1f1-97bd-4e10-801a-790111d13ca9">
+
+
 </p>
 
 ### 🌐 **Mapping and GIS**
@@ -238,6 +242,8 @@ Soy un **desarrollador full stack** con una licenciatura en **Física y Astrofí
   <img height="40" width="140" alt="microsoft" src="https://github.com/user-attachments/assets/bf05e5c0-f120-4325-9bf3-a0515d9c72b4">
   <img height="40" width="40" alt="canva" src="https://github.com/user-attachments/assets/2ed8fb99-92c1-4934-9765-5e9cbfbfceb8">
   <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/d6677752-51fc-4e7f-8fd3-d1e727b548f5">
+   <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/3c15a1f1-97bd-4e10-801a-790111d13ca9">
+
 </p>
 
 ### 🌐 **Mapas y SIG**
