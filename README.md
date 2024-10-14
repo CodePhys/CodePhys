@@ -1,8 +1,4 @@
 
-
-
-
-Please note that this is my second account, as my first account was hacked or stolen, resulting in a loss of access. I'll be re-uploading my files and content here. Thank you for understanding!
 👋 Hi, I'm @CodePhys
 
 Based in Italy.
@@ -38,6 +34,8 @@ Si prega di notare che questo è il mio secondo account, poiché il mio primo ac
 💞️ Sono alla ricerca di collaborazioni su progetti legati allo sviluppo software, all'e-commerce o a qualsiasi impresa scientifica e tecnologica. Sono aperto a esplorare nuove opportunità.
 
 📫 Puoi contattarmi su [yonacosta.com].
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
 
 <!---
 CodePhys/CodePhys è il mio repository speciale ✨ perché il suo `README.md` (questo file) appare sul tuo profilo GitHub.
