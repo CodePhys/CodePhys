@@ -102,7 +102,7 @@ Sono profondamente motivato nell'apprendimento continuo, dallo  **sviluppo softw
 
 
 ![Yon's GitHub stats](https://github-readme-stats-2-self.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
-📫 Puoi contattarmi su [yonacosta.com].
+
 
 ### Versione in Inglese ###
 # 👨‍💻 **Full Stack Developer** | 🚀 **Astrophysicist & Engineer**
@@ -194,7 +194,7 @@ I am deeply motivated by continuous learning, from **software development** to *
 - [LinkedIn](#) | [GitHub](#) | [Email](#)
 - You can also find me on [yonacosta.com](https://yonacosta.com)
 
-![Yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
+![Yon's GitHub stats](https://github-readme-stats-2-self.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
 
 
 ### Versione in Spagnolo ###
@@ -286,7 +286,7 @@ Estoy profundamente motivado por el aprendizaje continuo, que va desde el **desa
 - [LinkedIn](#) | [GitHub](#) | [Email](#)
 - También puedes encontrarme en [yonacosta.com](https://yonacosta.com)
 
-![Yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
+![Yon's GitHub stats](https://github-readme-stats-2-self.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
 
 <!---
 CodePhys/CodePhys è il mio repository speciale ✨ perché il suo `README.md` (questo file) appare sul tuo profilo GitHub.
