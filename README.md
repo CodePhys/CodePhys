@@ -21,6 +21,7 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
 
 
 
+
 ### 🖥 **Sviluppo Full Stack**
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap
 - **Backend**: C, C#, ASP.NET, MVC, SQLSERVER, Entity Framework,identity framework JWT,Deploy  API+DB Azure webServer
@@ -53,6 +54,10 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
  <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/3c15a1f1-97bd-4e10-801a-790111d13ca9">
   
 </p>
+<details>
+ <img align="left" alt="CodePhys" alt= "GitHubStats CodePhys" src="https://github.com/user-attachments/assets/070c74c9-16a7-4a2f-adf4-1f46cce3548d"/>
+</details>
+
 
 ### 🌐**Mappe e GIS**
 - **ArcGIS**: Analisi spaziali e creazione di mappe interattive corso udemy base
