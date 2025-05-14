@@ -54,8 +54,10 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
  <img height="40" width="40" alt="3DCura" src="https://github.com/user-attachments/assets/3c15a1f1-97bd-4e10-801a-790111d13ca9">
   
 </p>
-## GitHub Stats
 
+
+
+##GitHub Stats
 ![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
 
 
