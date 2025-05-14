@@ -101,9 +101,9 @@ Sono profondamente motivato nell'apprendimento continuo, dallo  **sviluppo softw
 📫 Puoi trovarmi anche su [yonacosta.com](https://yonacosta.com)
 
 
-
-📫 Puoi contattarmi su [yonacosta.com].
 ![Yon's GitHub stats](https://github-readme-stats-2-self.vercel.app/api?username=CodePhys&show_icons=true&theme=radical)
+📫 Puoi contattarmi su [yonacosta.com].
+
 ### Versione in Inglese ###
 # 👨‍💻 **Full Stack Developer** | 🚀 **Astrophysicist & Engineer**
 ...
