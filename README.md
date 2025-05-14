@@ -56,7 +56,7 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
 </p>
 ## GitHub Stats
 
-![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats1.png)
+![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
 
 
 
