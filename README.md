@@ -16,7 +16,7 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
 
 
 ---
-
+![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
 ## 🔧 **Competenze Techniche**
 
 
@@ -57,8 +57,8 @@ Sono un **sviluppatore full stack** con una laurea in **Fisica e Astrofisica**, 
 
 
 
-##GitHub Stats
-![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
+
+
 
 
 
@@ -123,7 +123,7 @@ Sono profondamente motivato nell'apprendimento continuo, dallo  **sviluppo softw
 I am a **full stack developer** with a degree in **Physics and Astrophysics**, and an engineering background that allows me to combine my passion for software development with a solid scientific foundation. I love solving complex problems by merging programming with technical design and innovation. I am a motivated self-learner in continuous growth and constantly strive to improve my skills, exploring technologies and methodologies that allow me to face new challenges requiring creativity and analytical thinking, with the goal of creating high-quality products that have a positive impact.
 
 ---
-
+![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
 ## 🔧 **Technical Skills**
 
 ### 🖥 **Full Stack Development**
@@ -216,7 +216,7 @@ I am deeply motivated by continuous learning, from **software development** to *
 Soy un **desarrollador full stack** con una licenciatura en **Física y Astrofísica**, y un trasfondo en ingeniería que me permite combinar mi pasión por el desarrollo de software con una sólida base científica. Me encanta resolver problemas complejos combinando la programación con el diseño técnico y la innovación. Soy un autodidacta motivado en constante crecimiento, siempre esforzándome por mejorar mis habilidades, explorando tecnologías y metodologías que me permitan enfrentar nuevos desafíos que requieren creatividad y pensamiento analítico, con el objetivo de crear productos de alta calidad que tengan un impacto positivo.
 
 ---
-
+![GitHub Stats CodePhys](https://raw.githubusercontent.com/CodePhys/CodePhys/main/assets/stats.png)
 ## 🔧 **Habilidades Técnicas**
 
 ### 🖥 **Desarrollo Full Stack**
